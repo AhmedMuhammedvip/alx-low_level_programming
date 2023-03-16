@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
-*i`m wanna be happy man
-*main - entery point
+  * Description: main - Prints out a string to stdout.
+  * Return: 0 if success.
 */
 int main(void)
 {
