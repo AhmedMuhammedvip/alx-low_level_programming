@@ -6,11 +6,16 @@
 *
 */
 void print_alphabet_10x(void)
+
 {
-for (int i = 1; i <= 10; i++)
+int i;
+char x;
+
+
+for (i = 1; i <= 10; i++)
 {
 
-for (char x = 'a'; x <= 'z'; x++)
+for (x = 'a'; x <= 'z'; x++)
 
 
 	putchar(x);
