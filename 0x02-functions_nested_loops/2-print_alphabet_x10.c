@@ -16,11 +16,12 @@ for (i = 1; i <= 10; i++)
 {
 
 for (x = 'a'; x <= 'z'; x++)
-
+{
 
 	putchar(x);
 
 
 }
 putchar('\n');
+}
 }
