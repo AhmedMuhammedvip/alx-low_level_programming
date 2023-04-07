@@ -10,12 +10,11 @@ for (int i = 1; i <= 10; i++)
 {
 
 for (char x = 'a'; x <= 'z'; x++)
-{
+
 
 	putchar(x);
 
 
 }
 putchar('\n');
-}
 }
