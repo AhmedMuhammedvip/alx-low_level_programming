@@ -1,9 +1,9 @@
 #include "main.h"
 #include<stdio.h>
 /**
- * print_alphabet - utilizes on the _puthcar function to print 
- * 			the alphabet a - z
- */ 			 
+ * print_alphabet - utilizes on the _puthcar function to print
+*	the alphabet a  - z
+*/
 void print_alphabet(void)
 {
 
