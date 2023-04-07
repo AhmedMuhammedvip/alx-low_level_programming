@@ -15,6 +15,6 @@ while (x <= 'z')
 
 x++;
 }
-
+puthcar('\n');
 }
 
