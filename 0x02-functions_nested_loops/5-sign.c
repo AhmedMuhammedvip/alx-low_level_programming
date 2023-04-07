@@ -13,7 +13,7 @@ int print_sign(int n)
 	if (n > 0)
 	{
 
-	_puthcar(43);
+	_putchar(43);
 	return (1);
 
 	}
@@ -25,7 +25,7 @@ int print_sign(int n)
 	}
 	else
 	{
-		_puthcar(45);
+		_putchar(45);
 		return (-1);
 	}
 }
